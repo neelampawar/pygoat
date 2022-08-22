@@ -16,6 +16,8 @@ our roadmap build intentionally vuln web Application in django. The Vulnerabilit
 • A8:2017-Insecure Deserialization<br>
 • A9:2017-Using Components with Known Vulnerabilities<br>
 • A10:2017-Insufficient Logging & Monitoring<br>
+test
+
 
 Table of Contents
 =================
